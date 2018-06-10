@@ -127,6 +127,7 @@
                                 <state key="normal" image="Stop"/>
                             </button>
                         </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <constraints>
                             <constraint firstItem="BrP-95-hze" firstAttribute="top" secondItem="nTw-sg-WwF" secondAttribute="top" id="0mD-kE-xOl"/>
                             <constraint firstItem="nTw-sg-WwF" firstAttribute="bottom" secondItem="eYr-qx-NId" secondAttribute="bottom" constant="8" id="7Xg-aj-tyt"/>
